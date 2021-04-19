@@ -1,5 +1,5 @@
-# VBScript-Tutorial-for-Beginner
-VBScript is a propriety client side scripting language by Microsoft, supported by Internet Explorer. Its is widely used in enterprises. This project will teach you basics of VBScript.
+# VBScript-Project-for-Beginner
+VBScript is a propriety client side scripting language by Microsoft, supported by Internet Explorer. Its is widely used in enterprises. This project will learn you basics of VBScript.
 
 **GET STARTED**
 
