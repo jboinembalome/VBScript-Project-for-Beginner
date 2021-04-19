@@ -16,5 +16,5 @@ If the code is not working
 
 Or
  
-- Add the following code inside "<head>" element in HTML file:
+- Add the following code inside the head element in HTML file:
     <meta http-equiv="x-ua-compatible" content="IE=10">
